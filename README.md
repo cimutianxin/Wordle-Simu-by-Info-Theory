@@ -1,4 +1,4 @@
-# Wordle Simulation by Infomation Theory[Python]
+# Wordle Simulation by Infomation Theory
 
  Wordle, Infomation Theory, Information Entropy, Python
 
