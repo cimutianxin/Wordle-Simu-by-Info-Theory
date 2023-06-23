@@ -2,9 +2,9 @@
 
  Wordle, Infomation Theory, Information Entropy, Python
 
-(wordle)[https://wordlegame.org], a game that you guess a 5-letter word by the hint of the game.
+[wordle](https://wordlegame.org), a game that you guess a 5-letter word by the hint of the game.
 
-Try to simulate the wordle game inspired by (3Blue1Brown's video)[https://www.youtube.com/watch?v=v68zYyaEmEA].
+Try to simulate the wordle game inspired by [3Blue1Brown's video](https://www.youtube.com/watch?v=v68zYyaEmEA).
 
 - [x] Calculate the E_info of each word in the long word list.
 - [x] Solution_0: use word has the highest E_info to guess every time.
