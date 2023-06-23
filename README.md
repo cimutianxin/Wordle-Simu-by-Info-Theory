@@ -4,7 +4,7 @@
 
 [wordle](https://wordlegame.org), a game that you guess a 5-letter word by the hint of the game.
 
-Try to simulate the wordle game inspired by [3Blue1Brown's video](https://www.youtube.com/watch?v=v68zYyaEmEA).
+Try to simulate the wordle game and find out the best way to guess, inspired by [3Blue1Brown's video](https://www.youtube.com/watch?v=v68zYyaEmEA).
 
 - [x] Solution_0: use word has the highest E_info to guess every time.
 - [x] Use short word list to generate the ANSWER and guess in the short word list, too.
